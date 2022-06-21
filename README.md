@@ -1,9 +1,8 @@
-# Statistics and Probability Zoomcamp
+# Statistics and Probability Zoomcamp with Zion Pibowei
 
 5 weeks practical live sessions in statistics and probability for data science. This is going to be a fast-paced learning experience, so familiarity with Python is expected.
 
-SCHEDULE: Two intensive live sessions every weekend throughout July. Exercises, assignments and labs during the week.
-
+**SCHEDULE:** Two intensive live sessions every weekend throughout July. Exercises, assignments and labs during the week.
 
 ## Topics:
 
@@ -27,7 +26,7 @@ SCHEDULE: Two intensive live sessions every weekend throughout July. Exercises, 
 
 10. Statistical Testing in Python - Hypothesis, Parametric, and Nonparametric Testing
 
-PROJECTS:
+## Projects:
 
 • Dynamic Pricing with A/B Testing in Python
 
