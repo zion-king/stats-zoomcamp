@@ -19,8 +19,8 @@
 
 ## Projects:
 You will take at least 2 of these after the corsework:
-• Dynamic Pricing with A/B Testing in Python
-• Demand Forecasting with Probabilistic Modelling in Python
-• Hypothesis Testing for Employee Performance Analysis (Optional)
-• Target Engineering with Statistical Inference on Probability Distributions (Optional)
+- Dynamic Pricing with A/B Testing in Python
+- Demand Forecasting with Probabilistic Modelling in Python
+- Hypothesis Testing for Employee Performance Analysis (Optional)
+- Target Engineering with Statistical Inference on Probability Distributions (Optional)
 
