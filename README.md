@@ -4,6 +4,7 @@
 
 **SCHEDULE:** Two intensive live sessions every weekend throughout July. Exercises, assignments and labs during the week.
 
+**REGISTRATION:** https://forms.gle/ap3YeyYc6d4VB5Vv6
 ## Topics:
 
 1. Overview, Descriptive Statistics, Visualization
@@ -24,3 +25,4 @@ You will take at least 2 of these after the corsework:
 - Hypothesis Testing for Employee Performance Analysis (Optional)
 - Target Engineering with Statistical Inference on Probability Distributions (Optional)
 
+## [Click Here to Register Now](https://forms.gle/ap3YeyYc6d4VB5Vv6)
